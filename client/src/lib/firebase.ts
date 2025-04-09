@@ -49,11 +49,11 @@ if (!firebaseConfig.apiKey || !firebaseConfig.projectId) {
   
   // Provide mock configuration for demo mode
   firebaseConfig = {
-    apiKey: "demo-mode-api-key",
-    authDomain: "demo-mode.firebaseapp.com",
-    projectId: "demo-mode",
-    storageBucket: "demo-mode.appspot.com",
-    appId: "demo-mode-app-id"
+    apiKey: "AIzaSyAcuMebW6SIHAyOwAl7Nhf_jGWAESQ5Fyo",
+    authDomain: "taskmanager-4c5a2.firebaseapp.com",
+    projectId: "taskmanager-4c5a2",
+    storageBucket: "taskmanager-4c5a2.firebasestorage.app",
+    appId: "1:660765435623:web:ebc2e0b606da422be2e442"
   };
 }
 
