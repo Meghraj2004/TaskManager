@@ -1,0 +1,11 @@
+// This file is for local development and should not be committed to version control
+// Copy this file to firebase.local.js and update with your Firebase configuration
+
+// Your local Firebase configuration
+export const localFirebaseConfig = {
+  apiKey: "YOUR_FIREBASE_API_KEY",
+  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_PROJECT_ID.appspot.com",
+  appId: "YOUR_FIREBASE_APP_ID"
+};
